@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_sign_in">Let us sign you in.</string>
+    <string name="subtitle_sign_in">Welcome back. You have been missed!</string>
+    <string name="hint_email_or_phone">Phone, email, or username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_register">Do not have an account? Register</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="app_name">LoginSignupApp</string>
+    <string name="btn_register">Register</string> <!-- Add new if required -->
+
+</resources>
